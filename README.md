@@ -1,2 +1,2 @@
-# lolCrawller
-LoLLeagueCrawller
+# lolCrawler
+LoLLeagueCrawler
